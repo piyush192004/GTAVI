@@ -66,9 +66,10 @@ GTAVI/
 ## Screenshots  
 Here are a few screenshots showing the UI and functionality:
 
-![Screenshot – Landing page](docs/screenshots/landing.png)  
-![Screenshot – Feature view](docs/screenshots/feature‑view.png)  
-![Screenshot – Mobile layout](docs/screenshots/mobile‑layout.png)
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/2c049a3d-14c1-437a-abf8-6bd2a21508d5" />
+
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/3b553567-14b1-439c-8711-78afc311fc0a" />
+
 
 *(You’ll want to replace these paths/names with the actual ones for your project.)*
 
