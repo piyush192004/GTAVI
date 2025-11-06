@@ -61,7 +61,6 @@ GTAVI/
 ├── vite.config.js       
 └── README.md            
 ```
-*(Modify this tree to reflect your actual folder structure if different.)*
 
 ## Screenshots  
 Here are a few screenshots showing the UI and functionality:
@@ -71,14 +70,10 @@ Here are a few screenshots showing the UI and functionality:
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/3b553567-14b1-439c-8711-78afc311fc0a" />
 
 
-*(You’ll want to replace these paths/names with the actual ones for your project.)*
-
 ## Contributing  
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.  
 Please ensure any new code includes relevant tests and updates the documentation where applicable.
 
-## License  
-Specify your license here (e.g., MIT) and any other legal terms.
 
 ## Contact  
 Created by [Piyush](https://github.com/piyush192004) — feel free to reach out via GitHub for questions or feedback.
